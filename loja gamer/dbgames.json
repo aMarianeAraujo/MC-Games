@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": "0",
+      "produto": "Fortnite",
+      "descricao": "Battle Royale e o Modo Criativo",
+      "foto": "jogo1.PNG",
+      "preco": 20
+    },
+    {
+      "id": "1",
+      "produto": "Stardew Valley",
+      "descricao": "RPG sem fim da vida no campo",
+      "foto": "jogo2.PNG",
+      "preco": 10.5
+    },
+    {
+      "id": "2",
+      "produto": "Valorante",
+      "descricao": "Um FPS tático 5x5 competitivo",
+      "foto": "jogo3.PNG",
+      "preco": 40
+    },
+    {
+      "id": "3",
+      "produto": "Blood Strike",
+      "descricao": "Um battle royale dinâmico.",
+      "foto": "jogo4.PNG",
+      "preco": 20.45
+    },
+    {
+      "id": 4,
+      "produto": "Genshin Impact",
+      "descricao": "RPG de aventura de mundo aberto.",
+      "foto": "jogo5.PNG",
+      "preco": 34.55
+    }
+  ]
+}
